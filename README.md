@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cheetah0x
-- 👀 I’m interested in getting better at software development, full-stack apps and solidity!
-- 📫 How to reach me Telegram: Niall Crafted
+- 👋 Hi, 
+- 👀 I’m interested in getting better at software development, full-stack apps, solidity, ML and ZK!
+- 📫 How to reach me Telegram: niallinio
 
 
 <!---
