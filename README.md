@@ -1,5 +1,5 @@
 - 👋 Hi, 
-- 👀 I’m interested in getting better at software development, full-stack apps, solidity, ML and ZK!
+- 👀 Software development, full-stack apps, solidity, ML and ZK!
 - 📫 How to reach me Telegram: niallinio
 
 
