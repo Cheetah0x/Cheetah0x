@@ -1,5 +1,5 @@
 - 👋 Hi, 
-- 👀 Software development, full-stack apps, solidity, ML and ZK!
+- 👀 Software development, full-stack apps, solidity, Rust, Noir, ML and ZK!
 - 📫 How to reach me Telegram: niallinio
 
 
